@@ -17,7 +17,7 @@ module.exports = (content) => html`<!DOCTYPE html>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/wiki">wikistack</a>
+            <a class="navbar-brand" href="/">wikistack</a>
           </div>
           <div id="nav-items" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
